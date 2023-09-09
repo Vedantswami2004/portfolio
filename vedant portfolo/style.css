@@ -1,0 +1,89 @@
+/* styles.css */
+
+/* Header */
+#header {
+    background-color: #c6931c;
+  }
+  
+  #header td {
+    padding: 15px;
+  }
+  
+  #header a {
+    text-decoration: none;
+  }
+  
+  /* Home */
+  #home {
+    background-color: rgb(28, 129, 193);
+    color: white;
+  }
+  
+  #home td {
+    padding: 15px;
+  }
+  
+  /* About */
+  #about {
+    background-color: black;
+    color: white;
+  }
+  
+  #about td {
+    padding: 15px;
+  }
+  
+  /* Projects */
+  #projects {
+    background-color: #c2c0c3;
+  }
+  
+  #projects td {
+    padding: 15px;
+  }
+  
+  /* Achievements */
+  #achievements {
+    background-color: black;
+    color: white;
+  }
+  
+  #achievements td {
+    padding: 15px;
+  }
+  
+  /* Contact */
+  #contact {
+    background-color: #c2c0c3;
+  }
+  
+  #contact td {
+    padding: 15px;
+  }
+  
+  #contact input[type="text"],
+  #contact input[type="email"],
+  #contact input[type="number"],
+  #contact textarea {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  #contact button {
+    padding: 10px 20px;
+  }
+  
+  /* Footer */
+  #footer {
+    background-color: #2dabca87;
+    color: white;
+  }
+  
+  #footer td {
+    padding: 15px;
+  }
+  
+  #footer a {
+    text-decoration: none;
+    color: white;
+  }
